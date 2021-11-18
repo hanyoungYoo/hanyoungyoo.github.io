@@ -18,16 +18,14 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: Hanyoung Yoo is graduate student at Department of Information and Communication Engineering in <a href="https://www.handong.edu/">Handong Global University(HGU)</a>, where he is memeber of <a href="https://arise.handong.edu/home">ARISE lab</a>. He received B.S degree in Computer Science from School of Computer Science and Electrical Engineering in Handong Global University
+    summary: Hanyoung Yoo is a graduate student at the Department of Information and Communication Engineering in <a href="https://www.handong.edu/">Handong Global University(HGU)</a>, where he is memeber of <a href="https://arise.handong.edu/home">ARISE lab</a>. He received B.S degree in Computer Science from School of Computer Science and Electrical Engineering in Handong Global University
 
 education:
     - degree: Pursuing Master's degree in Computer Science
       university: Handong Global University
       time: 2020 - Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        pretium quis, sem.
+        FILLOUTHERE
           - Bullet point
           - Bullet point
 
@@ -35,40 +33,13 @@ education:
       university: Handong Global University
       time: 2014 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        pretium quis, sem.
+        FILLOUTHERE
           - Bullet point
           - Bullet point
 
-
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Velocity
         link: "#hook"
@@ -76,10 +47,6 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
       - title: "Improving Configurability of Unit-level Continuous Fuzzing: An Industrial Case Study with SAP HANA"
         link: "#"
@@ -90,3 +57,19 @@ publications:
         link: "#"
         authors: H. Yoo and S. Hong
         conference: Korean Congress of Computing (KCC), Jun 23-25, 2021
+
+experiences:
+    intro: FILLOUTHERE
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
+      details: |
+        FILLOUTHERE
+          - FILLOUTHERE
+
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
+      details: |
+        FILLOUTHERE
+          - FILLOUTHERE
