@@ -37,6 +37,21 @@ education:
           - Bullet point
           - Bullet point
 
+experiences:
+    intro: FILLOUTHERE
+    - role: Graduate Student
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
+      details: |
+        FILLOUTHERE
+          - FILLOUTHERE
+
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
+      details: |
+        FILLOUTHERE
+          - FILLOUTHERE
 
 projects:
     title: Projects
@@ -58,18 +73,4 @@ publications:
         authors: H. Yoo and S. Hong
         conference: Korean Congress of Computing (KCC), Jun 23-25, 2021
 
-experiences:
-    intro: FILLOUTHERE
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        FILLOUTHERE
-          - FILLOUTHERE
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        FILLOUTHERE
-          - FILLOUTHERE
