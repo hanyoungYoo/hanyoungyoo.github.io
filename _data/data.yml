@@ -30,6 +30,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+
     - degree: B.S in Computer Science
       university: Handong Global University
       time: 2014 - 2019
@@ -39,6 +40,8 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+
+
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -49,6 +52,7 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
+
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
@@ -58,6 +62,7 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
+
     projects:
     title: Projects
     intro: >
